@@ -1,0 +1,15 @@
+{
+  "name": "fake-server-angular-issue-tracker",
+  "version": "1.0.0",
+  "description": "fake server db for angular issue tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
