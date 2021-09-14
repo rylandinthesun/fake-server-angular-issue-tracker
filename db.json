@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "text": "Add fake server to heroku",
+      "date": "2021-09-14",
+      "time": "17:00",
+      "reminder": false,
+      "complete": false,
+      "id": 1
+    },
+    {
+      "text": "Connect fake server to Issue Tracker",
+      "date": "2021-09-14",
+      "time": "13:00",
+      "reminder": false,
+      "complete": false,
+      "id": 2
+    },
+    {
+      "text": "deploy Issue Tracker",
+      "date": "2021-09-14T04:00:00Z",
+      "time": "17:00",
+      "reminder": false,
+      "complete": false,
+      "id": 3
+    }
+    
+  ]
+}
