@@ -1,24 +1,26 @@
 {
   "tasks": [
     {
-      "text": "Add fake server to heroku",
-      "date": "2021-09-14",
+      "text": "Learn Angular",
+      "description": "Learn the basics of Angular :)",
+      "date": "2021-09-15T04:00:00Z",
       "time": "17:00",
       "reminder": false,
-      "complete": false,
+      "complete": true,
       "id": 1
     },
     {
-      "text": "Connect fake server to Issue Tracker",
-      "date": "2021-09-14",
+      "text": "Update 404 page",
+      "description": "Create and add custom 404 page.",
+      "date": "2021-09-16T04:00:00Z",
       "time": "13:00",
-      "reminder": false,
+      "reminder": true,
       "complete": false,
       "id": 2
     },
     {
-      "text": "deploy Issue Tracker",
-      "date": "2021-09-14T04:00:00Z",
+      "text": "Add project to portfilo",
+      "date": "2021-09-17T04:00:00Z",
       "time": "17:00",
       "reminder": false,
       "complete": false,
